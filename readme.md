@@ -17,7 +17,7 @@ Just download this project and open the index.html file.
 **Author1**
 
 - GitHub: [@jpdf00](https://github.com/jpdf00)
-- Twitter: [@JooPauloDiasFr1](https://twitter.com/https://twitter.com/JooPauloDiasFr1)
+- Twitter: [@JooPauloDiasFr1](https://twitter.com/JooPauloDiasFr1)
 - LinkedIn: [João Paulo Dias França](https://linkedin.com/in/joão-paulo-dias-frança-269257a4)
 
 
